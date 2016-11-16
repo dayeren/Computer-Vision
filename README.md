@@ -35,8 +35,7 @@
 Python程序语言设计| 暂无 | 暂无 | 暂无
 Matlab程序语言设计| 暂无 | 暂无 | 暂无
 [计算机视觉简介](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm) | Udacity | 暂无 | [链接](https://cn.udacity.com/course/introduction-to-computer-vision--ud810)
-计算机视觉：基础和应用 | Stanford | 
-Computer Vision: Foundations and Applications | Stanford | [Computer Vision: A Modern Approach](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf) | [链接](http://vision.stanford.edu/teaching/cs131_fall1617/schedule.html)
+计算机视觉：基础和应用  | Stanford | [Computer Vision: A Modern Approach](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf) | [链接](http://vision.stanford.edu/teaching/cs131_fall1617/schedule.html)
 [机器学习基石](https://www.coursera.org/instructor/htlin)| NTU | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall/)
 [机器学习技法](https://www.coursera.org/instructor/htlin)| NTU | 暂无 | [链接](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
 [机器学习](http://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)| Stanford |暂无| [链接](http://cs229.stanford.edu/materials.html)
@@ -73,8 +72,7 @@ Matlab程序语言设计| 暂无 | 暂无
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [计算机视觉简介](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm) | Udacity | 暂无 | [链接](https://cn.udacity.com/course/introduction-to-computer-vision--ud810)
-计算机视觉：基础和应用 | Stanford | 
-Computer Vision: Foundations and Applications | Stanford | [Computer Vision: A Modern Approach](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf) | [链接](http://vision.stanford.edu/teaching/cs131_fall1617/schedule.html)
+计算机视觉：基础和应用 | Stanford | [Computer Vision: A Modern Approach](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf) | [链接](http://vision.stanford.edu/teaching/cs131_fall1617/schedule.html)
 
 ###<h3 id="math_median">数学基础中级</h3>
 
