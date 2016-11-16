@@ -116,7 +116,7 @@ Matlab程序语言设计| 暂无 | 暂无
 - [CVPR](http://www.pamitc.org/cvpr16/index.php)
 - [ECCV](http://eccv2016.org/)
 - [MICCAI](	http://www.miccai2016.org/en/)
-- 其他(http://cvrs.whu.edu.cn/index.php?m=content&c=index&a=show&catid=72&id=22)
+- [其他](http://cvrs.whu.edu.cn/index.php?m=content&c=index&a=show&catid=72&id=22)
 
 
 
